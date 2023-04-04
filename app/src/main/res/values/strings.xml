@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hallo Welt</string>
+    <string name="strGruss">*****</string>
+    <string name="strFrage">Bitte Deinen Namen eingeben:</string>
+    <string name="strButton01">Antworte mit Hi</string>
+    <string name="strButton02">Antworte mit Hallo</string>
+    <string name="strButton03">Start</string>
+    <string name="errorNameMissing">Bitte Namen eingeben</string>
+    <string name="errorOk">OK</string>
+    <string name="hiGreeting">Hi %s</string>
+    <string name="helloGreeting">Hello %s</string>
+
+
+</resources>
